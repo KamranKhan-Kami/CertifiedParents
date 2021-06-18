@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/parenting_challenge_logo" />
+
+    <TextView
+        android:id="@+id/agreement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="It's not important that the answers are correct, but what is more important is that you understand the concepts."
+        android:textColor="#FFF"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/okay"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/agreement"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/green_500"
+        android:text="Okay"
+        android:textColor="#FFF"
+        android:textSize="20sp" />
+
+</RelativeLayout>

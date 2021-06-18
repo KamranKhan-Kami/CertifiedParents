@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "32093333849",
+    "firebase_url": "https://certified-parent.firebaseio.com",
+    "project_id": "certified-parent",
+    "storage_bucket": "certified-parent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32093333849:android:663a71cd8570a8fa",
+        "android_client_info": {
+          "package_name": "com.ellalan.certifiedparent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32093333849-2p09rmpjpbaq9m0091dh6a6mv4lvpau2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "32093333849-bncrom1aiunrvniab4lalmocpagcfds3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellalan.certifiedparent",
+            "certificate_hash": "b3242f1e7ac169dffccf99e09445d00a9386bfbb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUeF9iAdbsxXD2B2JkcoMKrzejHG1whA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32093333849-2p09rmpjpbaq9m0091dh6a6mv4lvpau2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

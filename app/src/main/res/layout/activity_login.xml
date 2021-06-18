@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="5">
+
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="Quote  Quote  Quote  Quote  Quote  Quote  Quote  Quote  Quote  Quote  Quote  Quote  "
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/quote"
+        android:layout_alignRight="@+id/quote"
+        android:layout_below="@+id/quote"
+        android:layout_margin="20dp"
+        android:text="Josh Radnor"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>

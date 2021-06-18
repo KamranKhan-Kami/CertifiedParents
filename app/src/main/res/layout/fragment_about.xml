@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00bff3"
+    android:padding="15dp">
+
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:text="About"
+        android:textColor="#FFF"
+        android:textSize="30sp" />
+
+    <View
+        android:background="#FFF"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+
+    <TextView
+        android:id="@+id/aboutTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/app_name"
+        android:layout_marginTop="35dp"
+        android:text="Parenting Challenge is both an informative and fun filled interactive quiz that helps parents understand basic concepts in parenting and child psychology."
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/aboutDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/aboutTitle"
+        android:text="A score will be generated after completing the quiz which can be used to challenge others: your partner, other parents or even your own parents! Developed by experts in the field and finding answers to some of the most baffling parenting queries, it will be useful to any parent who wishes to sharpen their parenting skills."
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:textColor="#FFF"
+        android:text="All images used in the app are from stocksnap.io and music from audionautix.com"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

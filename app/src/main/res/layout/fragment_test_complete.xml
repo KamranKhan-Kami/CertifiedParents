@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00bff3"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/congrats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="Congratulations!"
+        android:textColor="#FFF"
+        android:textSize="35sp" />
+
+    <TextView
+        android:padding="10dp"
+        android:id="@+id/endText"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/congrats"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="Thank you for your time. We hope ‘Parenting Challenge’ has helped you introspect and gain newer insights into parenting. We will notify you every time you have a new quiz so that you will keep learning more about the most rewarding job on this planet.
+Happy parenting! "
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <Button
+        style="?attr/borderlessButtonStyle"
+        android:text="Continue"
+        android:background="@color/green_500"
+        android:textColor="#FFF"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/endText"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/continueToCertificate"
+        android:layout_width="150dp"
+        android:layout_height="50dp" />
+
+</RelativeLayout>

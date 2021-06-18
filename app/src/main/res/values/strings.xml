@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Parenting challenge</string>
+    <string name="upload_photo">Upload picture &amp; name</string>
+    <string name="facebook_app_id">507242619640671</string>
+
+    <!--    KeyHash : facebook : developement : t5ADStrLyxiekm+XJ1o2WYCNg4M=   -->
+    <!--    KeyHash : facebook : production :  advsF8/8k2UnBdnOgNun2PYGYYU=  -->
+    <integer-array name="important_questions">
+        <item>3</item>
+        <item>4</item>//
+        <item>6</item>//
+        <item>7</item>
+        <item>8</item>//
+        <item>10</item>
+        <item>11</item>//
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>//
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>21</item>//
+        <item>25</item>
+        <item>28</item>
+        <item>29</item>//
+        <item>30</item>
+        <item>31</item>//
+        <item>32</item>//
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>39</item>//
+        <item>40</item>
+    </integer-array>
+
+    <string name="pq1"><i>To be in your children\'s memories tomorrow,You have to be in their lives today.</i>\n\n<b> ― Barbara Johnson</b></string>
+    <string name="pq2"><i>“It is easier to build stronger children than to repair broken men”</i>\n\n<b> ― Frederick Douglas</b></string>
+    <string name="pq3"><i>“Tell me and I forget, teach me and I may remember, involve me and I learn.”</i>\n\n<b> ― Benjamin Franklin</b></string>
+    <string name="pq4"><i>“What it\'s like to be a parent: It\'s one of the hardest things you\'ll ever do but in exchange it teaches you the meaning of unconditional love.”</i>\n\n<b> ― Nicholas Sparks, The Wedding</b></string>
+    <string name="pq5"><i> “There really are places in the heart you don\'t even know exist until you love a child.” </i>\n\n<b> ― Anonymous</b></string>
+    <string name="pq6"><i>“Character is what you have left when you\'ve lost everything you can lose”</i>\n\n<b> ― Evan Esar</b></string>
+    <string name="pq7"><i>“No occupation in this world is more trying to soul and body than the care of young children..”</i>\n\n<b> ― Isabella MacDonald Alden</b></string>
+    <string name="pq8"><i>“Your children need your presence more than your presents.”</i>\n\n<b> ― Jesse Jackson</b></string>
+    <string name="pq9"><i>“Parents can tell but never teach, unless they practice what they preach.”</i>\n\n<b> ― Arnold H. Glasow</b></string>
+    <string name="pq10"><i>“At the end of the day, the most overwhelming key to a child\'s success is the positive involvement of parents.”</i>\n\n<b> ― Jane D. Hull</b></string>
+    <string name="pq11"><i>“Always kiss your children goodnight, even if they\'re already asleep.”</i>\n\n<b> ― H. Jackson Brown, Jr.</b></string>
+    <string name="pq12"><i>“I regret not having had more time with my kids when they were growing up.”</i>\n\n<b> ― Tina Turner</b></string>
+    <string name="pq13"><i>"To be in your children\'s memories tomorrow, you have to be in their lives today."</i>\n\n<b> ― Unknown</b></string>
+    <string name="pq14"><i>“Everything depends on upbringing”.</i>\n\n<b> ― Leo Tolstoy</b></string>
+    <string name="pq15"><i>“We never know the love of the parent till we become parents ourselves”</i>\n\n<b> ― Henry Ward Beecher</b></string>
+    <string name="pq17"><i>“To bring up a child in the way he should go - travel that way yourself”</i>\n\n<b> ― Josh Billings</b></string>
+    <string name="pq18"><i>“Each day of our lives we make deposits in the memory banks of our children.”</i>\n\n<b> ― Charles R. Swindoll</b></string>
+    <string name="pq16"><i>“Don’t worry that children never listen to you; worry that they are always watching you.”</i>\n\n<b> ― Robert Fulghum</b></string>
+    <string name="pq19"><i>“Treat a child as though he already is the person he’s capable of becoming.”</i>\n\n<b> ― Haim Ginott</b></string>
+    <string name="pq20"><i>“If you want your children to improve, let them overhear the nice things you say about them to others.”</i>\n\n<b> ― Haim Ginott</b></string>
+    <string name="pq21"><i>“A child’s mind is not a container to be filled but rather a fire to be kindled.”</i>\n\n<b> ― Dorothea Brande</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message"><![CDATA[Welcome to  \n PARENTING CHALLENGE. \n \n Parenting questions designed to make the parent in you think, introspect and learn. Answer these tricky questions, enrich your parenting knowledge and sharpen your parenting skills. GOOD LUCK AND HAPPY PARENTING!]]></string>
+
+    <string name="question_one_description">Children may lie for a reason or rarely for fun. When they lie for a reason it\'s either for achieving some sort of advantage, but mostly is done to avoid harsh consequences. The latter can be something the child fears, such as physical punishment or loss of privileges.
+For example, imagine that your child is handling a precious crockery (maybe helping you with some housework you were doing). But accidentally it falls down and breaks. Now if the parent\'s response is too harsh, the next time a similar accident happens, the child will make sure that you will never find out. Maybe he will lie. This will make him understand that with a lie he will be safe, but if you tell the truth the consequences can be devastating. Remember, it may be difficult to fix a broken crockery. But it\'s definitely harder to repair a shattered young mind.
+Very young children, especially before 3 years of age, may find it psychologically difficult to formulate and tell a lie, the reason behind which will be discussed later.</string>
+    <string name="next">NEXT</string>
+    <string name="share">SHARE</string>
+    <string name="title_activity_home">@string/app_name</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user_name">\"Kamran Chudasama\"</string>
+    <string name="str_certificate">For successfully completing the parenting challenge
+<b>&amp;</b> Your \'Parenting Challenge\' score is</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="loading">Loading...</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <!--<string name="banner_home_footer">ca-app-pub-0664570763252260/3326522424</string>-->
+    <!--<string name="sample_ad_unit">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!--<string name="admob_app_id">ca-app-pub-3037078034549596~4192045863</string>-->
+
+    <!-- Tips for parents -->
+
+    <string name="pt_0">Children need your attention and time most, not costly gifts</string>
+    <string name="pt_1">Teach children patience. Let them know that good things come in life only if they wait for it.</string>
+    <string name="pt_2">Be a friend with whom your child can share anything . Listen to them like their  best friend.</string>
+    <string name="pt_3">Don’t do everything for your children out of love. It will make them Lazy. </string>
+    <string name="pt_4">Let children see sufferings around them and encourage them to help  others in distress. </string>
+    <string name="pt_5">Encourage charity. Make them know the ‘joy of haring’  from a small age.</string>
+    <string name="pt_6">Character  is what remains in your child even if he or she  has lost everything you gave  in life!</string>
+    <string name="pt_7">Rather than telling a child what not to do, teach and show them what they should do.</string>
+    <string name="pt_8">Be a good listener to your child and make use of good eye contact.</string>
+    <string name="pt_9">Rewards work better than punishment for your child.</string>
+    <string name="pt_10">Love your child unconditionally, no matter how angry at them you may be.</string>
+    <string name="pt_11">Praise your child at least three times as much as you criticize them</string>
+    <string name="pt_12">Never compare your child with others, especially with siblings</string>
+    <string name="pt_13"><![CDATA[Criticize your child\'s behavior, not your child.]]> </string>
+    <string name="pt_14">Let your child make mistakes, face failures and learn from them</string>
+    <string name="pt_15">Give age appropriate responsibilities for children and praise them for their effort</string>
+    <string name="pt_16">The more you appreciate your child, the more confident he or she would be.</string>
+    <string name="pt_17">Let them know that you will always love them no matter what.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+
+
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3037078034549596/5287596998</string>
+    <string name="interstitial_full_screen">ca-app-pub-3037078034549596/8838567101</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>

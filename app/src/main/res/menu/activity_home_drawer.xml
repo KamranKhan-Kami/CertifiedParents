@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:checkable="false"
+            android:id="@+id/nav_challenge"
+            android:title="Challenge a parent" />
+        <item
+            android:id="@+id/nav_childpsychology"
+            android:title="Child Psychology" />
+        <item
+            android:id="@+id/nav_parentpsychology"
+            android:title="Parent Psychology"/>
+        <item
+            android:id="@+id/nav_knowfacts"
+            android:title="Do You Know Facts"/>
+        <item
+            android:id="@+id/nav_parentingtips"
+            android:title="Parenting Tips"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_contact"
+            android:title="Contact" />
+        <item
+        android:id="@+id/nav_tryourapp"
+        android:title="Try Our Companion App" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>
